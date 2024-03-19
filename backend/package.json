@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.2.2"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoamYaacob/FinalProject.git"
+  },
+  "author": "dan and noam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoamYaacob/FinalProject/issues"
+  },
+  "homepage": "https://github.com/NoamYaacob/FinalProject#readme"
+}
